@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi-04&layout=compact&theme=onedark)
 
 <h3 align="left">Connect with me:</h3>
+
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 
